@@ -1,0 +1,19 @@
+{
+  "name": "simple-react-theming",
+  "version": "0.1.0",
+  "description": "Simple way of theming react using variables",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndyArcherKG/simple-react-theming.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndyArcherKG/simple-react-theming/issues"
+  },
+  "homepage": "https://github.com/AndyArcherKG/simple-react-theming#readme"
+}
