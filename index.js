@@ -7,4 +7,4 @@ const Theme = (theme, cssFile) => {
   }
 };
 
-export default Theme;
+module.exports = Theme;

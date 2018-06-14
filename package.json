@@ -1,6 +1,6 @@
 {
   "name": "simple-react-theming",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple way of theming react using variables",
   "main": "index.js",
   "scripts": {
